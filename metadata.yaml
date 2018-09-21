@@ -1,0 +1,26 @@
+_repo: The-Yellow-Holly_54979
+_version: 0.0.1
+creator:
+  author:
+    agent_name: Hume, Fergus
+    aliases:
+    - Hume, Fergus W. (Ferguson Wright)
+    - Hume, Ferguson Wright
+    birthdate: 1859
+    deathdate: 1932
+    gutenberg_agent_id: '1057'
+    url: http://www.gutenberg.org/2009/agents/1057
+    wikipedia: http://en.wikipedia.org/wiki/Fergus_Hume
+description: ''
+gutenberg_issued: '2017-06-25'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '54979'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- GITenberg
+title: The Yellow Holly
+url: http://www.gutenberg.org/ebooks/54979
