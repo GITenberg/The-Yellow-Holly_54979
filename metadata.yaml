@@ -1,5 +1,8 @@
 _repo: The-Yellow-Holly_54979
-_version: 0.1.0
+_version: 0.2.0
+covers:
+- cover_type: archival
+  image_path: 54979-h/Images/cover.png
 creator:
   author:
     agent_name: Hume, Fergus
@@ -12,6 +15,8 @@ creator:
     url: http://www.gutenberg.org/2009/agents/1057
     wikipedia: http://en.wikipedia.org/wiki/Fergus_Hume
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/54979#The-Yellow-Holly
 gutenberg_issued: '2017-06-25'
 gutenberg_type: Text
 identifiers:
